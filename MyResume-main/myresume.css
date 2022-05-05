@@ -1,0 +1,47 @@
+body{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name h1{
+    background-color: black;
+    font-style: bold;
+    color:white;
+    text-align:center;
+    font-size:50px;
+    padding:50px 50px;
+}
+.name div{
+    font-size:20px;
+    font-style: normal;
+    text-align:center;
+}
+.about div {
+ color: black;
+ font-size:30px;
+ font-style: bold;
+}
+.about p {
+font-size:20px;
+}
+.line div {
+    background-color: black;
+    height:30px;
+    width:100%;
+}
+.self table{
+    width:100%;
+    column-rule-color: black;
+}
+.self th{
+    width:100%;
+    text-align:left;
+    padding: 30px 0px 10px 10px ;
+}
+.self td{
+   padding:0px 0px;
+   
+}
+.class{
+    padding:20px 30px;
+}
