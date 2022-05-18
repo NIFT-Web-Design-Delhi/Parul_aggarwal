@@ -217,7 +217,7 @@ body {
   position: absolute;
   top: 0;
   right: 0;
-  width: 700px;
+  width: 500px;
   height: 700px;
   background-repeat: no-repeat;
   background-position: 350px -170px;
@@ -225,7 +225,7 @@ body {
 }
 
 #about {
-  /* width: 1300px; */
+  /* width: 1000px; */
   margin: 8px;
   padding: 120px 50px;
   display: flex;
