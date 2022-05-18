@@ -227,7 +227,7 @@ body {
 #about {
   /* width: 1300px; */
   margin: 8px;
-  padding: 120px 0;
+  padding: 120px 50px;
   display: flex;
   /* gap: 100px; */
 }
